@@ -1,0 +1,11 @@
+# Groepe skermgreep folder — one set per slide (01, 02, …)
+#
+#   01.png          light-mode screenshot
+#   01-dark.png     dark-mode screenshot
+#
+#   Carousel text: edit features/groepe.html (carousel-copy section).
+#   Optional 01.txt … only if you want to override HTML for that slide.
+#
+#   talk-01.txt     author script only — never shown on the website
+#
+#   sample.png      hero image below "Voorbeelde van groepe"

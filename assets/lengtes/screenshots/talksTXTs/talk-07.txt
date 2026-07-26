@@ -1,0 +1,9 @@
+[af]
+title=Woordlengte = 18.
+
+Wyg woorde wat met alfabet A begin, nou is daar slegs 96 woorde in die lys.
+
+[en]
+title=Screenshot 7
+
+Edit this text in 07.txt when you add 07.png.

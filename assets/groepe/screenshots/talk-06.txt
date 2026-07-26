@@ -1,0 +1,9 @@
+[af]
+title=Skermgreep 6
+
+Wysig hierdie teks in 06.txt wanneer jy 06.png byvoeg.
+
+[en]
+title=Screenshot 6
+
+Edit this text in 06.txt when you add 06.png.

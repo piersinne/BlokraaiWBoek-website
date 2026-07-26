@@ -1,0 +1,9 @@
+[af]
+title=Tweede groepring.
+
+Lengtes 14 - 23.
+
+[en]
+title=A-Z filter
+
+Edit this text in 03.txt when you add 03.png.

@@ -1,0 +1,9 @@
+[af]
+title=Geskommelde letters.
+
+Hierdie geskommelde letters is wat sy Anagramme gevind moet word van.
+
+[en]
+title=Anagrams
+
+Edit this text in 03.txt when you add 03.png.

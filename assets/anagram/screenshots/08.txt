@@ -1,0 +1,9 @@
+[af]
+title=Woorde skepping.
+
+Verskaf as voorbeeld die letters 'VAKAN'.
+
+[en]
+title=Screenshot 8
+
+Edit this text in 08.txt when you add 08.png.

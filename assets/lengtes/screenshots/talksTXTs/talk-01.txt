@@ -1,0 +1,9 @@
+[af]
+title=Die woordlengte funksie.
+
+Woordlengtes afkomstig van woorde wat binne die App gebruik word.
+
+[en]
+title=Choose a length
+
+Select Lengths on the home screen. Pick the number of letters — see all words of that length.

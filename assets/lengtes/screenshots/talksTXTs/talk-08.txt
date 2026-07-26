@@ -1,0 +1,9 @@
+[af]
+title=Woordlengte = 18.
+
+Wys die woorde wat met alfabet C begin, baie minder om deur te blaai.
+
+[en]
+title=Screenshot 8
+
+Edit this text in 08.txt when you add 08.png.

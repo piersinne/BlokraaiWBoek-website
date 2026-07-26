@@ -1,0 +1,9 @@
+[af]
+title=Resulate detail.
+
+in hierdie voorbeeld sien die 4letter woorde gevind.
+
+[en]
+title=Screenshot 10
+
+Edit this text in 10.txt when you add 10.png.

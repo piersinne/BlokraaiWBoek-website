@@ -1,0 +1,9 @@
+[af]
+title=Skermgreep 6
+
+Wysig hierdie teks wanneer jy gereed is.
+
+[en]
+title=Screenshot 6
+
+Edit this text when ready.

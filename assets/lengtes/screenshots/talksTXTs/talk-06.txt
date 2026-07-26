@@ -1,0 +1,9 @@
+[af]
+title=Woordlengte = 18.
+
+Lys word vertoon Nadat die teks grootte aangepas is.
+
+[en]
+title=Screenshot 6
+
+Edit this text in 06.txt when you add 06.png.

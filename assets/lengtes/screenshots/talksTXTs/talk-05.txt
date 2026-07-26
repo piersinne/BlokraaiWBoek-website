@@ -1,0 +1,9 @@
+[af]
+title=Voorbeeld van woordlengtes = 18.
+
+Soos jy kan sien is daar meer as 1500 woorde beskikbaar. Heelwat om deur te lees. Die plus en minus opsies laat jou to om die teks se grootte te verstel vir makliker leesbaarheid. Die oranje pyltjie dui daarop dat wanneer jy daarop klik, die App sal bepaal waar die spesifieke word as of 'n Leidraad of 'n Antwoord gebruik word binne die App. Hierdie is hoofsaaklik vir nuuskierige gebruikers om meer inligting te bekom aangaande die geselekteerde word, ook bedoel vir iemand wat blokkiesraaisels self opstel.Wees gewaarsku hierdie funksie neem baie tyd omdat daar deur al 580 000 plus kombinasies gesoek moet word. Dan aan die onderkant sien jy twee plytjies, dit laat jou toe om die lys korter te maak deur slegs woorde te vertoon wat met die geselekteerde alfabet letter te begin. Die volgende skermgrepe sal dit mooi vertoon.
+
+[en]
+title=Screenshot 5
+
+Edit this text in 05.txt when you add 05.png.

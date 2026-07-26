@@ -1,0 +1,9 @@
+[af]
+Opsomming van nuwe kombinasies.
+
+Nuwe kombinasies opgesom.
+
+[en]
+title=Screenshot 5
+
+Edit this text when ready.

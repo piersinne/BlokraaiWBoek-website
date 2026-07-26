@@ -1,0 +1,9 @@
+[af]
+title=Resultaat skerm.
+
+Nou word die resultate vertoon. In hierdie geval kan jy sien waar die betrokke word gebruik word. Baie handig vir beide die nuuskierige asook die person wat raaisels self wil opstel.
+
+[en]
+title=Screenshot 10
+
+Edit this text in 10.txt when you add 10.png.

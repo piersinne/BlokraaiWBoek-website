@@ -1,0 +1,9 @@
+[af]
+title=Groep woorde
+
+Wysig hierdie teks in 02.txt wanneer jy 02.png byvoeg.
+
+[en]
+title=Group words
+
+Edit this text in 02.txt when you add 02.png.

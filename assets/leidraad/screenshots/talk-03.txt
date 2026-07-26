@@ -1,0 +1,9 @@
+[af]
+Nuwe leidrade by gevoeg sedert die vorige weergawe.
+
+Die opsie regs bo gee vir jou 'n nuwe skerm/lys van leidrade met hulle antwoorde.
+
+[en]
+title=Screenshot 3
+
+Edit this text when ready.

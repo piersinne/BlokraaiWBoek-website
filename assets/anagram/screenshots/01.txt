@@ -1,0 +1,9 @@
+[af]
+title=Anagram oplosser
+
+Voer geskommelde letters in om anagramme te vind.
+
+[en]
+title=Open Anagram
+
+Select Anagram on the home screen. Enter scrambled letters to find anagrams.

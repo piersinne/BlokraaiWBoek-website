@@ -1,0 +1,9 @@
+[af]
+Nuut bygevoegde kombinasies.
+
+Volledige lys van nuwe kombinasies.
+
+[en]
+title=Screenshot 4
+
+Edit this text when ready.

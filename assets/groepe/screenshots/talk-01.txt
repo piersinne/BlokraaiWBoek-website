@@ -1,0 +1,9 @@
+[af]
+title=Kies 'n groep
+
+Kies Groepe op die tuisskerm. Blaai deur meer as 20 kategorieë — van Afkortings en Bybel tot Latyns, Mitologie en meer.
+
+[en]
+title=Choose a group
+
+Select Groups on the home screen. Browse more than 20 categories — from Abbreviations and Bible to Latin, Mythology, and more.

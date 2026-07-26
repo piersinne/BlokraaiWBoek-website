@@ -1,0 +1,7 @@
+# Anagram skermgreep folder — one set per slide (01 … 09)
+#
+#   01.png          light-mode screenshot
+#   01-dark.png     dark-mode screenshot
+#   01.txt          optional on-screen copy (overrides anagram.html for that slide)
+#
+#   talk-01.txt     author script only — never shown on the website

@@ -1,0 +1,9 @@
+[af]
+title=Soek funksie vir meer detail.
+
+Hier vertoon die App dat hy opsoek is na waar die betrokke word gebruik word.
+
+[en]
+title=Screenshot 5
+
+Edit this text in 05.txt when you add 05.png.

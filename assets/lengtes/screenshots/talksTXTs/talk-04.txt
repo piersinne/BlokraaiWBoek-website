@@ -1,0 +1,9 @@
+[af]
+title=Derde groepering.
+
+Woordlengtes 24 - 34.
+
+[en]
+title=Clues and answers
+
+Edit this text in 04.txt when you add 04.png.

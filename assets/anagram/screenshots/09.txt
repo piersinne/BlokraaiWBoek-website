@@ -1,0 +1,9 @@
+[af]
+title=Resultate.
+
+Die antwoorde is gegroepeer.
+
+[en]
+title=Screenshot 9
+
+Edit this text in 09.txt when you add 09.png.

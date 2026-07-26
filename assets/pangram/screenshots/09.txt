@@ -1,0 +1,9 @@
+﻿[af]
+title=Pangram oplosser
+
+Wysig hierdie teks in 09.txt wanneer jy gereed is.
+
+[en]
+title=Pangram screenshot 09
+
+Edit this text in 09.txt when ready.

@@ -1,0 +1,9 @@
+[af]
+title=Resultaat skerm.
+
+'n Lys van leidraad en sy antwoord word hier vertoon.
+
+[en]
+title=Screenshot 6
+
+Edit this text in 06.txt when you add 06.png.

@@ -1,0 +1,10 @@
+[af]
+title=Detail opsie in werking.
+
+Hierdie skermgreep word vertoon sodra jy op 'n bepaalde word binne die hooflys van woorde geklik het.
+Hierdie funksie vat baie lank so gebruik dit slegs wanneer jy nuuskierig is oor waar die word oral in die App voorkom.
+
+[en]
+title=Screenshot 9
+
+Edit this text in 09.txt when you add 09.png.

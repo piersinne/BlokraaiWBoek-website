@@ -1,0 +1,21 @@
+# Antwoord skermgreep folder — one set per slide (01, 02, 03, …)
+#
+# --- Website assets (loaded by the carousel) ---
+#
+#   01.png          light-mode screenshot
+#   01-dark.png     dark-mode screenshot
+#   01.mp3          narration audio
+#   01.txt          optional on-screen copy (overrides antwoord.html for that slide)
+#
+#   02.png + 02-dark.png + 02.mp3 + 02.txt
+#   …
+#
+# --- Author only (never loaded by the website) ---
+#
+#   talk-01.txt     your spoken script when recording 01.mp3
+#
+# Workflow:
+#   1. Copy 01.png (and 01-dark.png when ready) into this folder
+#   2. Write talk-01.txt → record → save as 01.mp3
+#   3. Optionally add NN.txt to override HTML text for slide NN
+#   4. Run website/sync-text.bat (only needed for file:// preview)

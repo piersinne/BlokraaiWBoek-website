@@ -1,0 +1,9 @@
+[af]
+title=Addisionele funksie.
+
+Gebruik die 'hamburger button' regs bo. Hierdie funksie laat jou toe om te bepaal watter woorde kan opgemaak word uit die word wat jy gaan verskaf.
+
+[en]
+title=Screenshot 7
+
+Edit this text in 07.txt when you add 07.png.

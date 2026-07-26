@@ -1,0 +1,14 @@
+[af]
+title=Antwoorde gelys
+
+Hier kan jy nou sien dat geen leidrade is met die word 'SKOO' daars wel leidrade met woorde wat SKO bevat. Sien die onderstreepte letters.
+
+Omdat daar meer as 220 000 unieke leidrade beskikbaar is is selfs die 140 leidrade is te veel om deur te lees, hiervoor bestaan daar twee addionele sub-funksies sodat jy die lys van antwoorde kan verkort.
+Sub-funksie-1; regs onder is daar daar groep 'len', gebruik die oppyltjie en afpyltjie om die die leidrade te blaai met die antwoordlengte gelyk aan die nommer wat jy gekies het.
+Sub-funksie-2; linkerkant is die seksie 'A-Z', gebruik die oppyltjie en afpyltjie om die die leidrade te blaai met die antwoord met die eerste letter gelyk aan die gekose letter te vertoon.
+Die twee sub-funksies word afsonderlik gebruik.
+
+[en]
+title=Screenshot 2
+
+Edit this text — add 02.png and update this file.
